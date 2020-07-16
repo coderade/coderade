@@ -7,7 +7,7 @@ Currently I am working as a FullStack Enginner, so I spend most of time with [Lo
 
 ## Things I like to do
 📖 Reading — I love [reading](https://www.goodreads.com/valdeci) and [studying](https://github.com/coderade/certificates). Today I'm studying Math and Algorithms and also the tools that I use on my job. <br>
-🏋️ Sports — I love doing sports, so I exercise every day, most of the time we will see I am doing 🏃‍♂️ 🚴 🏋️  <br>
+🏋️ Sports — I love doing sports, so I exercise every day, most of the time you will see me 🏃‍♂️ 🚴 🏋️  <br>
 🎵 Music — I love all kind of music and these days I'm trying to improve my 🥁 skills (not so well yet)  <br>
 🥗 Healthy lifestyle — I like to keep a good routine, trying to eat the most of healthy food I can,  🧘‍♂️ and sleep well to live a healthy life and improve my cognitive function
 
