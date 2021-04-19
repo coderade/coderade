@@ -1,8 +1,8 @@
 # Valdeci Gomes 🏡
 
-Hi, I'm Valdeci Gomes — a Software Engineer from Brazil currently working remotely with consulting for companies in North America. I work with IT since 2013, and I love coding and solving problems. To know more about me, you can read a little on the [about](https://valde.ci/about/) section on my blog.
+Hi, I'm Valdeci Gomes — a Cloud Architect from Brazil currently working helping companies in their CLoud development and migration. I work with IT since 2013, and I love coding and solving problems. To know more about me, you can read a little on the [about](https://valde.ci/about/) section on my blog.
 
-Currently, I am working as a FullStack Engineer, so I spend most of my time with [Loopback](https://loopback.io/doc/en/lb4/) and [TypeScript](https://www.typescriptlang.org/), but I also use [AWS](https://aws.amazon.com/), [Angular](https://angular.io/) and other technologies on my daily basis.
+Currently, I am working as Cloud Application Architect at the [Amazon Web Services (AWS)](https://aws.amazon.com/).
 
 
 ## Things I like to do
