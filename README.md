@@ -13,7 +13,7 @@ Currently, I am working as Cloud Application Architect at [Amazon Web Services (
 
 
 ## Get in touch
-- Personal site: [valde.ci](https://valde.ci)
+- Personal site: [valde.ci](https://coderade.github.io)
 - Linkedin: [linked.in/valdeci](https://br.linkedin.com/in/valdeci/en)
 - StackOverflow: [stackoverflow.com/valdeci](https://stackoverflow.com/users/4157589/valdeci)
 - StackExchange: [stackexchange.com/valdeci](https://stackexchange.com/users/5196485/coderade?tab=accounts)
