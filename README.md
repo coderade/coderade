@@ -18,3 +18,5 @@ Currently, I am working as Cloud Application Architect at [Amazon Web Services (
 - StackOverflow: [stackoverflow.com/valdeci](https://stackoverflow.com/users/4157589/valdeci)
 - StackExchange: [stackexchange.com/valdeci](https://stackexchange.com/users/5196485/coderade?tab=accounts)
 - goodreads: [goodreads.com/valdeci](https://www.goodreads.com/valdeci)
+
+If you want to contact me, please send a email to [contact@valde.ci](mailto:contact@valde.ci)
