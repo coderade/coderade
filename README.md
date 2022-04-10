@@ -1,4 +1,4 @@
-# Valdeci Gomes 🏡
+# Valdeci Gomes
 
 Hi, I'm Valdeci Gomes — a Cloud Architect from Brazil currently working helping companies in their Cloud development and migration. I work with IT since 2013, and I love coding and solving problems. To know more about me, you can read a little on the [about](https://valde.ci/about/) section on my blog.
 
